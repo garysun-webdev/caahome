@@ -1,0 +1,21 @@
+{
+  "name": "caahome",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Yige Sun"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Swiper": "swiper#~3.3.0"
+  }
+}

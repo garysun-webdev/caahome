@@ -1,0 +1,19 @@
+{
+  "name": "caahome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lightman_wang@bitbucket.org/lightman_wang/ccahome.git"
+  },
+  "author": "Yige Sun",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lightman_wang/ccahome#readme",
+  "dependencies": {
+    "bower": "^1.7.2"
+  }
+}
